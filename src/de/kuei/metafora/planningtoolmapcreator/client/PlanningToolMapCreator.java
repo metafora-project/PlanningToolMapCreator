@@ -30,7 +30,7 @@ public class PlanningToolMapCreator implements EntryPoint {
 
 	private final MapInitAsync mapInit = GWT.create(MapInit.class);
 
-	public static String tomcat = "https://metaforaserver.ku.de";
+	public static String tomcat = "https://metafora-project.de";
 
 	public static String token = null;
 	public static Vector<String> users = null;

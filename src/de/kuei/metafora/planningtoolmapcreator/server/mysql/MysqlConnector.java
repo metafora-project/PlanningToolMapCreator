@@ -9,7 +9,7 @@ import java.util.Vector;
 
 public class MysqlConnector {
 
-	public static String url = "jdbc:mysql://metaforaserver.ku.de/metafora?useUnicode=true&characterEncoding=UTF-8";
+	public static String url = "jdbc:mysql://metafora-project.de/metafora?useUnicode=true&characterEncoding=UTF-8";
 	public static String user = "user";
 	public static String password = "password";
 

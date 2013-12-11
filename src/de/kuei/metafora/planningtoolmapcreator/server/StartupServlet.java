@@ -18,7 +18,7 @@ public class StartupServlet extends HttpServlet {
 	public static String sending_tool = "PLANNING_TOOL_MAP_CREATOR";
 	public static boolean logged = true;
 	public static String receiving_tool = "PLANNING_TOOL";
-	public static String tomcatserver = "https://metaforaserver.ku.de";
+	public static String tomcatserver = "https://metafora-project.de";
 
 	public static XmppMUC command = null;
 
